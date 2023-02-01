@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+li{
+  display: inline-block;
+  margin: 10px;
+  border-right: 2px solid black;
+}
+span{
+  font-size: 30px;
+  color: yellowgreen;
+}
